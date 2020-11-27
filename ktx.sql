@@ -41,7 +41,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `admin_name`, `admin_pass`, `created_at`, `updated_at`) VALUES
-(1, 'Tran Duong Quang', '123456', NULL, NULL);
+(1, 'Hoang Anh Truong' , '123456', NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -89,7 +89,7 @@ CREATE TABLE `baocao` (
 --
 
 INSERT INTO `baocao` (`id_baocao`, `phong`, `hoten`, `noidung`, `hinhanh`, `ngay`, `chuthich`, `status`) VALUES
-(2, 'B403', 'Trần Dương Quang', 'Phòng B403 bị hỏng vòi sens', 'voi-sen5.jpg', '2019-12-14', 'Cần sửa chửa', 'Đã khắc phục');
+(2, 'B403', 'Hoàng Anh Trường', 'Phòng B403 bị hỏng vòi sens', 'voi-sen5.jpg', '2019-12-14', 'Cần sửa chửa', 'Đã khắc phục');
 
 -- --------------------------------------------------------
 
